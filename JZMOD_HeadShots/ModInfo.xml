@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Head Shots Only - PVP Friendly" />
+		<Description value="All player damage is increased only on zombie heads and decreased only on zombies bodys" />
+		<Author value="Spider aka JZMOD" />
+		<Version value="1" />
+		<Website value="http://7daystodie.com" />
+	</ModInfo>
+</xml>
